@@ -8,3 +8,5 @@ _how sweet life will be for me when i finally become a programming pro_
 __let me see what the double underscore does__
 **can**i**combine them and get same result* :upside_down_face:
 As grace hopper said: > I've always been more interested > in the future than in the present. "'if(ebiweni) {}
+
+~~EBIWENI IS NOT COOL~~ 😀
